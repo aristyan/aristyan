@@ -1,4 +1,4 @@
-👋 Hello I’m @aristyan
+👋 Hello I’m @aristyan.
 
 📚 Studied Electrical and Computer Engineering for 5 years at Aristotle University of Thessaloniki in Greece.
 
