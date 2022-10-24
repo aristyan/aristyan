@@ -6,4 +6,4 @@
 
 🎈 Academic interests: Computer Vision, Digital Signal Processing, Deep Learning, Robotics, Natural Language Processing.
 
-📫 How to reach me? Simply send an email at aristianos@hotmail.com
+📫 How to reach me? Simply send an email at aristianos@hotmail.com.
