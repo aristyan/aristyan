@@ -1,9 +1,10 @@
 👋 Hello I’m @aristyan.
 
-📚 Studied Electrical and Computer Engineering at Aristotle University of Thessaloniki in Greece.
+📚 I hold a Diploma in Electrical and Computer Engineering from Aristotle University of Thessaloniki (AUTh) in Greece.
 
-⛏ Currently pursuing an Advanced Master's degree in Artificial Intelligence at KU Leuven in Belgium.
+🧨 I hold an Advanced Master's degree (MSc) in Artificial Intelligence from KU Leuven in Belgium.
 
 🎈 Academic interests: Computer Vision, Digital Signal Processing, Deep Learning, Robotics, Natural Language Processing.
 
 📫 How to reach me? Simply send an email at aristianos@hotmail.com.
+
